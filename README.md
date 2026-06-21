@@ -24,10 +24,12 @@ All analysis runs on a real extract of **4,121 engaged customers** from
 | Table | Layer | Content |
 |---|---|---|
 | `raw_aramis_auto.quotes_valuations` | Raw | Quote and trade-in valuation requests |
+| `raw_aramis_auto.mails_incoming_calls` | Raw | Mails and Phone Calls from Customers |
 | `raw_aramis_auto.customer_account` | Raw | Customer demographics |
 | `raw_aramis_auto.navigation` | Raw | Website session/page activity |
 | `curated_aramis_auto.customer_requests` | Curated | Cleaned, joined request log |
 | `curated_aramis_auto.inbound_contacts` | Curated | Mails and Phone Calls from Customers |
+| `curated_aramis_auto.customer` | Curated | All customers and related data |
 | `curated_aramis_auto.customer_web_navigation` | Curated | Cleaned navigation log |
 | `analytics_aramis_auto.dts_station_wagon_buyers` | Analytics | Final customer-level feature table used for modeling |
 
