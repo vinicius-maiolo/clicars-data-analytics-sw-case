@@ -93,28 +93,12 @@ intent, low trade-in activity, broad practical-vehicle interest) but were never
 included in the original outreach.
 
 ## Recommendation
-
 1. **Prioritize the 562** — age 44+, high prior quote volume, ranked by behavior, not guessed.
 2. **Lead with quote-relevant offers, not trade-in** — save buyback messaging for a separate campaign aimed at the (different) heavy-valuation segment.
 3. **Re-score periodically** — as new requests and navigation data come in, refresh the ranked list rather than treating it as static.
 
-## Repository contents
 
-- `sql/` — the BigQuery data-modeling query and the final targeting query
-- `notebook/` — Python analysis notebook (Colab-ready): statistical tests, multivariate model, propensity scoring, charts
-- `deck/` — slide deck summarizing findings and recommendations for Marketing
-
-*Adjust the folder names above if your repo structure differs.*
 
 ## Tools
-
-BigQuery (SQL) for data modeling · Python (pandas, scipy, scikit-learn, matplotlib) for
+BigQuery (SQL) for data modeling · Python for ETL · Excel for
 statistical analysis · Google Colab for the executable notebook.
-
-## Limitations
-
-This is observational, not experimental data — the relationships described are
-correlational. Conclusions should be validated with an A/B test before being used to
-guide significant budget decisions. The propensity model is intentionally simple
-(logistic regression with a small, interpretable feature set) for transparency over
-predictive maximization.
