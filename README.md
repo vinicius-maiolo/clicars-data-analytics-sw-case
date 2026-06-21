@@ -57,12 +57,7 @@ of 7 quotes before purchase vs. 2 for the rest of the base.
 family car (66%), and MPV (50%) at 1.9–2.6x the rate of non-buyers — they're actively
 cross-shopping practical body styles, not arriving at wagons through a closed niche.
 
-**4. Heavy trade-in shoppers convert *less*, not more.** Buyers request well under 1
-valuation on average, vs. 2.82 for non-buyers (an 8x gap) — and this is the strongest
-negative effect in the controlled model. Combined with the high quote volume,
-this points to a likely second-car or additional-vehicle buyer profile, not someone
-replacing and trading in their primary car. **Don't lead outreach with a trade-in
-offer for this audience.**
+**4. Buyers are far more active researchers**. 72% of them browse through more than 7 sessions before purchasing. Combined with the high quote volume (finding 2), this reinforces the likely profile of a second-car or additional-vehicle buyer — someone who researches extensively and compares options across multiple visits, but isn't financing the purchase through a trade-in of their primary car.
 
 Gender showed no meaningful difference in conversion and was not used as a targeting
 variable.
