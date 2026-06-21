@@ -68,6 +68,8 @@ variable.
 ## From findings to a target list
 
 ```sql
+
+FROM dts_station_wagon_buyers
 WHERE 1=1
   AND has_sale is false
   AND station_wagon_buyer = 0
